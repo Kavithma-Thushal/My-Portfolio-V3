@@ -12,7 +12,9 @@ Let's dive into the digital adventure, where every interaction brings you closer
 
 ✅ **HTML**<br/>
 ✅ **CSS**<br/>
-✅ **JavaScript**<br/>
+✅ **JS**<br/>
+✅ **Bootstrap**<br/>
+✅ **JQuery**<br/>
 
 ## 🚀 Features
 
